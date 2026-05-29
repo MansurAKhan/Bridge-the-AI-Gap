@@ -1,4 +1,4 @@
-# 🇺🇸🤖 Bridging the AI Development–Regulation Gap
+# Position: Bridging the AI Development–Regulation Gap Requires Dedicated Committees and Adaptive Legislation
 
 This repository contains the dataset, analysis code, and results for our study on **bridging the gap between AI development and AI safety regulation in the United States**, accepted at **ICML 2026**.
 
