@@ -1,0 +1,125 @@
+Bill Number,Year,Subfields,Failure Reason/ or Passed,Stalled in Committee? (1 Yes/0 No),Chamber,Sponsor Party,Bipartisan?,Introduced Month,# of Sponsors,Link
+H.R. 4829,2018,Job Security; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,TRUE,January,15,https://www.congress.gov/bill/115th-congress/house-bill/4829
+S. 3502,2018,Push for AI Research; Policy Advisory,Stalled in Committee (Senate),1,Senate,Democrat,TRUE,September,4,https://www.congress.gov/bill/115th-congress/senate-bill/3502
+S. 1363,2019,Push for AI Research; Data Usage; AGI,Senate Calendar Inaction,0,Senate,Democrat,TRUE,May,6,https://www.congress.gov/bill/116th-congress/senate-bill/1363
+H.R. 7096,2019,Data Usage; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,TRUE,June,9,https://www.congress.gov/bill/116th-congress/house-bill/7096
+H.R. 827,2019,Job Security; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,TRUE,January,17,https://www.congress.gov/bill/116th-congress/house-bill/827
+S.1558,2019,Push for AI Research; Policy Advisory; AI in Government,Stalled in Committee (Senate),1,Senate,Democrat,TRUE,May,3,https://www.congress.gov/bill/116th-congress/senate-bill/1558
+H.Res. 153,2019,General Ethical Usage; Policy Advisory,Expired Without Action,1,House,Democrat,FALSE,February,11,https://www.congress.gov/bill/116th-congress/house-resolution/153
+S. 3901,2020,General Ethical Usage; Data Usage,Expired Without Action,1,Senate,Democrat,TRUE,June,2,https://www.congress.gov/bill/116th-congress/senate-bill/3901
+S. 3890,2020,AI in Government; Push for AI Research; Policy Advisory,Expired Without Action,1,Senate,Republican,TRUE,June,2,https://www.congress.gov/bill/116th-congress/senate-bill/3890
+H.R. 7339,2020,Push for AI Research,Expired Without Action,1,House,Democrat,FALSE,June,1,https://www.congress.gov/bill/116th-congress/house-bill/7339
+H.R. 8183,2020,AI in Government; Push for AI Research,Expired Without Action,1,House,Democrat,FALSE,September,1,https://www.congress.gov/bill/116th-congress/house-bill/8183
+H.R. 8128,2020,General Ethical Usage; Policy Advisory,Passed House; Senate Stall,1,House,Democrat,TRUE,August,5,https://www.congress.gov/bill/116th-congress/house-bill/8128
+S. 4082,2020,AI in Government; Policy Advisory,Expired Without Action,1,Senate,Democrat,TRUE,June,2,https://www.congress.gov/bill/116th-congress/senate-bill/4082
+H.R. 7856,2020,AI in Government; Push for AI Research; Policy Advisory,Expired Without Action,1,House,Democrat,FALSE,July,1,https://www.congress.gov/bill/116th-congress/house-bill/7856
+S.Amdt 1977,2020,GEU,Amendment Passed,0,Senate,,FALSE,,0,https://www.congress.gov/amendment/116th-congress/senate-amendment/1977
+S.Amdt 2301,2020,GEU,Amendment Passed,0,Senate,,FALSE,,0,https://www.congress.gov/amendment/116th-congress/senate-amendment/2301
+S. 2551,2021,AI in Government; Policy Advisory; ,Passed,0,Senate,Democrat,TRUE,July,2,https://www.congress.gov/bill/117th-congress/senate-bill/2551
+S. 1353,2021,AI in Government; General Ethical Usage,Senate Calendar Inaction,0,Senate,Democrat,TRUE,April,2,https://www.congress.gov/bill/117th-congress/senate-bill/1353
+S. 1257,2021,Data Usage; General Ethical Usage,Expired Without Action,1,Senate,Democrat,TRUE,April,2,https://www.congress.gov/bill/117th-congress/senate-bill/1257
+H.R. 4468,2021,Data Usage; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,FALSE,July,1,https://www.congress.gov/bill/117th-congress/house-bill/4468
+H.R. 4469,2021,Artificial General Intelligence; Policy Advisory,Stalled in Committee (House),1,House,Democrat,TRUE,July,4,https://www.congress.gov/bill/117th-congress/house-bill/4469
+H.R. 6553,2021,Data Usage; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,FALSE,February,5,https://www.congress.gov/bill/117th-congress/house-bill/6553
+H.R. 7811,2021,General Ethical Usage; Policy Advisory,Stalled in Committee (House),1,House,Republican,TRUE,May,2,https://www.congress.gov/bill/117th-congress/house-bill/7811
+H.R. 3844,2021,Data Usage; General Ethical Usage,Stalled in Committee (House),1,House,Republican,TRUE,June,5,https://www.congress.gov/bill/117th-congress/house-bill/3844
+H.R.3723,2021,AI in Government; Push for AI Research,Passed House; Senate Committee Stall,1,House,Democrat,TRUE,June,6,https://www.congress.gov/bill/117th-congress/house-bill/3723
+H.R. 5467,2021,"General Ethical Usage, Policy Advisory",Stalled in Committee (House),1,House,Republican,FALSE,September,1,https://www.congress.gov/bill/117th-congress/house-bill/5467
+S. 2904,2021,AI in Government; Policy Advisory,Stalled in Committee (Senate),1,Senate,Republican,FALSE,September,1,https://www.congress.gov/bill/117th-congress/senate-bill/2904
+S. 1705,2021,AI in Government; Push for AI Research; Policy Advisory,Stalled in Committee (Senate),1,Senate,Democrat,TRUE,May,2,https://www.congress.gov/bill/117th-congress/senate-bill/1705
+S. 1260,2021,Push for AI Research; AI in Government; Policy Advisory,Passed Senate; Expired Without Action ,1,Senate,Democrat,TRUE,April,14,https://www.congress.gov/bill/117th-congress/senate-bill/1260
+H.R. 2153,2021,Push for AI Research; Policy Advisory; AI in Government,Stalled in Committee (House),1,House,Republican,FALSE,March,17,https://www.congress.gov/bill/117th-congress/house-bill/2153
+H.R. 7683,2022,General Ethical Usage; Policy Advisory; AGI,Expired Without Action,1,House,Democrat,TRUE,May,2,https://www.congress.gov/bill/117th-congress/house-bill/7683
+S. 3035,2022,Autonomous Driving,Senate Calendar Inaction,0,Senate,Democrat,TRUE,October,2,https://www.congress.gov/bill/117th-congress/senate-bill/3035
+H.R. 7296,2022,Large Language Models; Data Usage; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,TRUE,March,2,https://www.congress.gov/bill/117th-congress/house-bill/7296
+H.R. 7776,2022,AI in Government; Policy Advisory; General Ethical Usage,Passed,0,House,Democrat,TRUE,May,4,https://www.congress.gov/bill/117th-congress/house-bill/7776
+S. 5351,2022,"General Ethical Usage, Data Usage",Stalled in Committee (Senate),1,Senate,Republican,FALSE,December,1,https://www.congress.gov/bill/117th-congress/senate-bill/5351
+S. 1356,2023,Policy Advisory; AI in Government,Stalled in Committee (Senate),1,Senate,Democrat,FALSE,April,1,https://www.congress.gov/bill/118th-congress/senate-bill/1356
+S. 2770,2023,AI in Government; Policy Advisory,Senate Calendar Inaction,0,Senate,Democrat,TRUE,September,6,https://www.congress.gov/bill/118th-congress/senate-bill/2770
+H.R. 4223,2023,Push for AI Research; AI in Government,Stalled in Committee (House),1,House,Democrat,TRUE,June,11,https://www.congress.gov/bill/118th-congress/house-bill/4223
+S. 1564,2023,AI in Government; Policy Advisory,Senate Calendar Inaction,0,Senate,Democrat,TRUE,May,2,https://www.congress.gov/bill/118th-congress/senate-bill/1564
+S. 1596,2023,Push for AI Research; Job Security,Stalled in Committee (Senate),1,Senate,Democrat,FALSE,May,4,https://www.congress.gov/bill/118th-congress/senate-bill/1596
+H.R. 3044,2023,Deepfake; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,FALSE,May,1,https://www.congress.gov/bill/118th-congress/house-bill/3044
+H.R. 7694,2023,Job Security; Policy Advisory,Stalled in Committee (House),1,House,Republican,FALSE,March,2,https://www.congress.gov/bill/118th-congress/house-bill/7694
+H.R. 1718,2023,Deepfake; General Ethical Usage,Stalled in Committee (House),1,House,Republican,TRUE,March,3,https://www.congress.gov/bill/118th-congress/house-bill/1718
+H.R. 3369,2023,Push for AI Research; Job Security,House Calendar Inaction,0,House,Democrat,TRUE,May,3,https://www.congress.gov/bill/118th-congress/house-bill/3369
+S. 1626,2023,Push for AI Research; Policy Advisory,Stalled in Committee (Senate),1,Senate,Republican,FALSE,May,1,https://www.congress.gov/bill/118th-congress/senate-bill/1626
+S. 2691,2023,Policy Advisory; AI in Government,Stalled in Committee (Senate),1,Senate,Democrat,TRUE,July,4,https://www.congress.gov/bill/118th-congress/senate-bill/2691
+S.2765,2023,Policy Advisory; Deepfake; General Ethical Usage,Stalled in Committee (Senate),1,Senate,Republican,FALSE,September,1,https://www.congress.gov/bill/118th-congress/senate-bill/2765
+H.R.9403,2023,Push for AI Research,Expired Without Action,1,House,Democrat,TRUE,August,5,https://www.congress.gov/bill/118th-congress/house-bill/9403
+H.R.8384,2023,Deepfake; General Ethical Usage; Policy Advisory,Stalled in Committee (House),1,House,Democrat,TRUE,May,4,https://www.congress.gov/bill/118th-congress/house-bill/8384
+S.4394,2023,Push for AI Research; Job Security,Senate Calendar Inaction,0,Senate,Democrat,TRUE,May,3,https://www.congress.gov/bill/118th-congress/senate-bill/4394
+H.R.4503,2023,AI in Government; Push for AI Research,Declined,0,House,Republican,TRUE,July,3,https://www.congress.gov/bill/118th-congress/house-bill/4503
+H.Res. 66,2023,General Ethical Usage; Policy Advisory,Stalled in Committee (House),1,House,Democrat,FALSE,January,1,https://www.congress.gov/bill/118th-congress/house-resolution/66
+S. 2293,2023,Policy Advisory; AI in Government,Senate Calendar Inaction,0,Senate,Democrat,TRUE,July,2,https://www.congress.gov/bill/118th-congress/senate-bill/2293
+H.Res. 649,2023,AI in Government; Policy Advisory; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,FALSE,August,1,https://www.congress.gov/bill/118th-congress/house-resolution/649
+H.R. 9309,2023,Policy Advisory; Data Usage; General Ethical Usage,Stalled in Committee (House),1,House,Republican,TRUE,August,2,https://www.congress.gov/bill/118th-congress/house-bill/9309
+S. 3205,2023,AI in Government; Policy Advisory; General Ethical Usage,Stalled in Committee (Senate),1,Senate,Republican,TRUE,November,2,https://www.congress.gov/bill/118th-congress/senate-bill/3205
+S. 2714,2023,AI in Government; Policy Advisory; General Ethical Usage,Senate Calendar Inaction,0,Senate,Democrat,TRUE,July,4,https://www.congress.gov/bill/118th-congress/senate-bill/2714
+H.R. 6881,2023,Data Usage; General Ethical Usage; LLM; Policy Advisory,House Calendar Inaction,0,House,Democrat,FALSE,December,5,https://www.congress.gov/bill/118th-congress/house-bill/6881
+H.R. 8348,2023,AI in Government; Policy Advisory; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,FALSE,May,2,https://www.congress.gov/bill/118th-congress/house-bill/8348
+H.R. 8353,2023,AI in Government; Policy Advisory; Deepfake,Stalled in Committee (House),1,House,Democrat,TRUE,May,12,https://www.congress.gov/bill/118th-congress/house-bill/8353
+H.R. 7381,2023,AI in Government; Push for AI Research,Stalled in Committee (House),1,House,Democrat,TRUE,February,3,https://www.congress.gov/bill/118th-congress/house-bill/7381
+H.R.4814,2023,AI in Government; Push for AI Research,Passed House; Senate Committee Stall,1,House,Democrat,TRUE,July,5,https://www.congress.gov/bill/118th-congress/house-bill/4814
+H.R.4683,2023,AI in Government; Push for AI Research,Stalled in Committee (House),1,House,Democrat,TRUE,July,10,https://www.congress.gov/bill/118th-congress/house-bill/4683
+H.R. 206,2023,"General Ethical Usage, Policy Advisory",Stalled in Committee (House),1,House,Republican,FALSE,January,1,https://www.congress.gov/bill/118th-congress/house-bill/206
+H.R. 6791,2023,"General Ethical Usage, Policy Advisory",Stalled in Committee (House),1,House,Democrat,TRUE,December,6,https://www.congress.gov/bill/118th-congress/house-bill/6791
+H.R. 5808,2023,Deepfake; Policy Advisory,Stalled in Committee (House),1,House,Democrat,TRUE,September,11,https://www.congress.gov/bill/118th-congress/house-bill/5808
+S. 3478,2023,General Ethical Usage; Data Usage; Policy Advisory,Stalled in Committee (House),1,Senate,Democrat,FALSE,December,8,https://www.congress.gov/bill/118th-congress/senate-bill/3478
+S. 2597,2023,General Ethical Usage; Policy Advisory; Data Usage,Stalled in Committee (House),1,Senate,Democrat,TRUE,July,2,https://www.congress.gov/bill/118th-congress/senate-bill/2597
+H.R. 7781,2024,Data Usage,Stalled in Committee (House),1,House,Republican,TRUE,March,5,https://www.congress.gov/bill/118th-congress/house-bill/7781
+H.R. 6088,2024,Large Language Models; Data Usage; General Ethical Usage,Stalled in Committee (House),1,House,Republican,TRUE,October,2,https://www.congress.gov/bill/118th-congress/house-bill/6088
+H.R. 6466,2024,Job Security; Push for AI Research; Deepfake,Stalled in Committee (House),1,House,Republican,TRUE,November,3,https://www.congress.gov/bill/118th-congress/house-bill/6466
+H.R.7913,2024,Data Usage; Large Language Models; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,FALSE,April,1,https://www.congress.gov/bill/118th-congress/house-bill/7913
+S. 4664,2024,Push for AI Research; AI in Government; Data Usage,Stalled in Committee (Senate),1,Senate,Independent,TRUE,July,2,https://www.congress.gov/bill/118th-congress/senate-bill/4664
+H.R. 9211,2024,General Ethical Usage; Policy Advisory; Job Security,Stalled in Committee (House),1,House,Republican,TRUE,July,14,https://www.congress.gov/bill/118th-congress/house-bill/9211
+H.R. 9402,2024,Data Usage; General Ethical Usage,Expired Without Action,1,House,Republican,TRUE,August,13,https://www.congress.gov/bill/118th-congress/house-bill/9402
+H.R. 10262,2024,General Ethical Usage; Policy Advisory; Data Usage,Stalled in Committee (House),1,House,Democrat,TRUE,November,3,https://www.congress.gov/bill/118th-congress/house-bill/10262
+S. 4951,2024,Policy Advisory; Data Usage; General Ethical Usage,Stalled in Committee,1,Senate,Republican,TRUE,August,2,https://www.congress.gov/bill/118th-congress/senate-bill/4951
+H.R. 9475,2024,Push for AI Research; Artificial General Intelligence,Stalled in Committee (House),1,House,Democrat,TRUE,September,6,https://www.congress.gov/bill/118th-congress/house-bill/9475
+H.R. 6943,2024,General Ethical Usage; Deepfake; Data Usage,Stalled in Committee (House),1,House,Republican,TRUE,January,10,https://www.congress.gov/bill/118th-congress/house-bill/6943
+S. 4236,2024,Push for AI Research; Artificial General Intelligence,Stalled in Committee,1,Senate,Democrat,TRUE,May,3,https://www.congress.gov/bill/118th-congress/senate-bill/4236
+S. 5436,2024,AI in Government; Policy Advisory; Data Usage,Stalled in Committee,1,Senate,Democrat,TRUE,December,2,https://www.congress.gov/bill/118th-congress/senate-bill/5436
+S. 3897,2024,AI in Government; General Ethical Usage; Deepfake,Stalled in Committee,1,Senate,Democrat,TRUE,March,3,https://www.congress.gov/bill/118th-congress/senate-bill/3897
+H.R. 7532,2024,AI in Government; General Ethical Usage; Policy Advisory,Stalled in Committee (House),1,House,Republican,TRUE,March,8,https://www.congress.gov/bill/118th-congress/house-bill/7532
+H.R. 9639,2024,Deepfake; General Ethical Usage; Policy Advisory,Stalled in Committee,1,House,Democrat,TRUE,September,21,https://www.congress.gov/bill/118th-congress/house-bill/9639
+H.R. 9042,2024,AI in Government; General Ethical Usage,Stalled in Committee,1,House,Democrat,FALSE,July,1,https://www.congress.gov/bill/118th-congress/house-bill/9042
+S. 3875,2024,Deepfake; General Ethical Usage; Policy Advisory,Stalled in Committee,1,Senate,Democrat,TRUE,March,2,https://www.congress.gov/bill/118th-congress/senate-bill/3875
+H.R. 10125,2024,General Ethical Usage; Policy Advisory,Stalled in Committee,1,House,Democrat,TRUE,November,2,https://www.congress.gov/bill/118th-congress/house-bill/10125
+H.R. 5077,2024,General Ethical Usage;,Expired Without Action,1,House,Democrat,TRUE,July,21,https://www.congress.gov/bill/118th-congress/house-bill/5077
+H.R. 8756,2024,Policy Advisory,Stalled in Committee (House),1,House,Democrat,TRUE,June,3,https://www.congress.gov/bill/118th-congress/house-bill/8756
+H.R. 9737,2024,Data Usage,Stalled in Committee (House),1,House,Democrat,FALSE,September,2,https://www.congress.gov/bill/118th-congress/house-bill/9737
+H.R. 3831,2024,General Ethical Usage,Stalled in Committee (House),1,House,Democrat,FALSE,June,2,https://www.congress.gov/bill/118th-congress/house-bill/3831
+H.R. 8858,2024,Deepfake; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,FALSE,June,21,https://www.congress.gov/bill/118th-congress/house-bill/8858
+H.R. 8668,2024,General Ethical Usage; Data Usage; Deepfake,Stalled in Committee,1,House,Democrat,FALSE,June,2,https://www.congress.gov/bill/118th-congress/house-bill/8668
+S. 5539,2024,General Ethical Usage; Policy Advisory; Data Usage,Stalled in Committee (Senate),1,Senate,Democrat,FALSE,December,2,https://www.congress.gov/bill/118th-congress/senate-bill/5539
+H.R. 9497,2024,General Ethical Usage; Policy Advisory; AI in Government,Stalled in Committee,1,House,Republican,TRUE,September,12,https://www.congress.gov/bill/118th-congress/house-bill/9497
+H.R. 9466,2024,General Ethical Usage; Policy Advisory; AI in Government,Stalled in Committee,1,House,Republican,TRUE,September,8,https://www.congress.gov/bill/118th-congress/house-bill/9466
+H.R. 10263,2024,Data Usage; Large Language Models; General Ethical Usage,Stalled in Committee (House),1,House,Democrat,FALSE,November,2,https://www.congress.gov/bill/118th-congress/house-bill/10263
+S. 4896,2024,Push for AI Research; AI in Government; Data Usage,Stalled in Committee,1,Senate,Democrat,FALSE,July,2,https://www.congress.gov/bill/118th-congress/senate-bill/4896
+S. 3162,2024,General Ethical Usage; Policy Advisory; Data Usage,Senate Calendar Inaction,0,Senate,Democrat,TRUE,October,6,https://www.congress.gov/bill/118th-congress/senate-bill/3162
+H.R. 9215,2024,Policy Advisory; AI in Government; General Ethical Usage,Expired Without Action,1,House,Democrat,TRUE,July,8,https://www.congress.gov/bill/118th-congress/house-bill/9215
+H.R. 9720,2024,General Ethical Usage; Data Usage; Policy Advisory,Stalled in Committee,1,House,Democrat,TRUE,September,4,https://www.congress.gov/bill/118th-congress/house-bill/9720
+S. 4495,2024,Policy Advisory; AI in Government; Data Usage,Senate Calendar Inaction,0,Senate,Democrat,TRUE,June,2,https://www.congress.gov/bill/118th-congress/senate-bill/4495
+S.3975,2024,Data Usage; General Ethical Usage,Stalled in Committee (Senate),1,Senate,Democrat,FALSE,March,2,https://www.congress.gov/bill/118th-congress/senate-bill/3975
+H.R.9673,2024,General Ethical Usage,Stalled in Committee (House),1,House,Democrat,TRUE,September,2,https://www.congress.gov/bill/118th-congress/house-bill/9673
+S.4838,2024,Policy Advisory; General Ethical Usage,Stalled in Committee,1,Senate,Democrat,TRUE,July,2,https://www.congress.gov/bill/118th-congress/senate-bill/4838
+S.4714,2024,Deepfake; General Ethical Usage,Stalled in Committee,1,Senate,Democrat,FALSE,July,5,https://www.congress.gov/bill/118th-congress/senate-bill/4714
+H.R.7766,2024,Deepfake; General Ethical Usage; Policy Advisory,Stalled in Committee,1,House,Democrat,TRUE,March,19,https://www.congress.gov/bill/118th-congress/house-bill/7766
+S. 5058,2024,AI in Government; Policy Advisory,Stalled in Committee,1,Senate,Republican,TRUE,September,3,https://www.congress.gov/bill/118th-congress/senate-bill/5058
+H.Amdt.956,2024,Unclear,Amendment Passed,0,House,,FALSE,,0,https://www.congress.gov/amendment/118th-congress/house-amendment/956
+H.Res. 1600,2024,General Ethical Usage; Policy Advisory,Stalled in Committee,1,House,Republican,TRUE,November,2,https://www.congress.gov/bill/118th-congress/house-resolution/1600
+S. 4596,2024,General Ethical Usage; Policy Advisory,Stalled in Committee,1,Senate,Republican,TRUE,June,2,https://www.congress.gov/bill/118th-congress/senate-bill/4596
+S. 3312,2024,Push for AI Research; AI in Government; Data Usage; Policy Advisory,Stalled in Committee,1,Senate,Republican,TRUE,November,8,https://www.congress.gov/bill/118th-congress/senate-bill/3312
+H.R. 8700,2024,Push for AI Research; Policy Advisory,Stalled in Committee,1,House,Democrat,FALSE,June,1,https://www.congress.gov/bill/118th-congress/house-bill/8700
+H.R. 6936,2024,AI in Government; Policy Advisory; General Ethical Usage,Stalled in Committee,1,House,Democrat,TRUE,January,5,https://www.congress.gov/bill/118th-congress/house-bill/6936
+H.R. 9671,2024,Push for AI Research; AI in Government; Data Usage,Stalled in Committee,1,House,Republican,TRUE,September,2,https://www.congress.gov/bill/118th-congress/house-bill/9671
+H.R. 7603,2024,AI in Government; Policy Advisory,Stalled in Committee,1,House,Republican,FALSE,March,1,https://www.congress.gov/bill/118th-congress/house-bill/7603
+H.R. 10092,2024,General Ethical Usage; Data Usage; Policy Advisory,Stalled in Committee,1,House,Democrat,FALSE,November,15,https://www.congress.gov/bill/118th-congress/house-bill/10092
+H.R. 9626,2024,AI in Government; Data Usage; General Ethical Usage,Stalled in Committee,1,House,Democrat,FALSE,September,1,https://www.congress.gov/bill/118th-congress/house-bill/9626
+S. 4862,2024,General Ethical Usage; AI in Government; Data Usage,Stalled in Committee,1,Senate,Republican,TRUE,July,2,https://www.congress.gov/bill/118th-congress/senate-bill/4862
+H.Amdt. 955,2024,Unclear,Amendment Passed,0,House,,FALSE,,0,https://www.congress.gov/amendment/118th-congress/house-amendment/955
+S. 4769,2024,Policy Advisory; General Ethical Usage; Data Usage,Stalled in Committee,1,Senate,Democrat,TRUE,July,2,https://www.congress.gov/bill/118th-congress/senate-bill/4769
+S. 4178,2024,General Ethical Usage; AI in Government; Data Usage,Stalled in Committee,1,Senate,Democrat,TRUE,April,9,https://www.congress.gov/bill/118th-congress/senate-bill/4178
+H.R. 1,2025,Deepfake; Policy Advisory; Push for AI ,Passed,0,,,,,,https://www.congress.gov/bill/119th-congress/house-bill/1
+H.R. 2575,2019,Data Usage; General Ethical Usage,Senate Calendar Inaction,0,House,Democrat,TRUE,May,2,https://www.congress.gov/bill/116th-congress/house-bill/2575
